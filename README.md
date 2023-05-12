@@ -151,7 +151,7 @@ The recognizable commands by the interpreter are the following:
 
 ## Technologies Used
  - Language: Python3.4
- - Operating System: Ubuntu 14.04 LTS (Trusty64)
+ - Operating System: Ubuntu 20.04
  - Style: PEP8 Ver. 1.7
 
 ## Authors
